@@ -1,0 +1,14 @@
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\bin\Debug\net6.0\DMCCSocket.exe
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\bin\Debug\net6.0\DMCCSocket.deps.json
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\bin\Debug\net6.0\DMCCSocket.runtimeconfig.json
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\bin\Debug\net6.0\DMCCSocket.dll
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\bin\Debug\net6.0\DMCCSocket.pdb
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\obj\Debug\net6.0\DMCCSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\obj\Debug\net6.0\DMCCSocket.AssemblyInfoInputs.cache
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\obj\Debug\net6.0\DMCCSocket.AssemblyInfo.cs
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\obj\Debug\net6.0\DMCCSocket.csproj.CoreCompileInputs.cache
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\obj\Debug\net6.0\DMCCSocket.dll
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\obj\Debug\net6.0\refint\DMCCSocket.dll
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\obj\Debug\net6.0\DMCCSocket.pdb
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\obj\Debug\net6.0\DMCCSocket.genruntimeconfig.cache
+C:\Users\cjewell\source\repos\DMCCSocket\DMCCSocket\obj\Debug\net6.0\ref\DMCCSocket.dll
